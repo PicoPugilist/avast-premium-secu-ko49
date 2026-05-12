@@ -1,4 +1,4 @@
-# 
+# smart Plugin for Avast Premium Security for PC | Avast Premium Security for Windows - scheduled-scans and malware-scanning offers the most advanced Avast Premium Security for PC |
 
 
 
